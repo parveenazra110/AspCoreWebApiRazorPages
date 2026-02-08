@@ -90,9 +90,9 @@ C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\ne
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\AspNetCoewWebAppMVC.dll
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\refint\AspNetCoewWebAppMVC.dll
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\AspNetCoewWebAppMVC.pdb
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\AspNetCoewWebAppMVC.genruntimeconfig.cache
 C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\ref\AspNetCoewWebAppMVC.dll
+C:\Users\Intel\source\repos\AspNetCoewWebAppMVC\AspNetCoewWebAppMVC\obj\Debug\net10.0\AspNetCoewWebAppMVC.sourcelink.json
