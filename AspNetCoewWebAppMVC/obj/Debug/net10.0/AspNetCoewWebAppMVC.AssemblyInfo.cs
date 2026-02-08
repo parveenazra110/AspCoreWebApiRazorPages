@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AspNetCoewWebAppMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d882f6cc0ce97450e6d44af1f0d8c030251294b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a2efd6a6a0012c8ef569e7d584611cd063737c6e")]
 [assembly: System.Reflection.AssemblyProductAttribute("AspNetCoewWebAppMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AspNetCoewWebAppMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
