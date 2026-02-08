@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Intel\\source\\repos\\AspNetCoewWebAppMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3C0F8EE-6411-4EE9-B7E6-122D7579F515}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|c:\\users\\intel\\source\\repos\\aspnetcoewwebappmvc\\aspnetcoewwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3C0F8EE-6411-4EE9-B7E6-122D7579F515}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|solutionrelative:aspnetcoewwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3C0F8EE-6411-4EE9-B7E6-122D7579F515}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|c:\\users\\intel\\source\\repos\\aspnetcoewwebappmvc\\aspnetcoewwebappmvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{F3C0F8EE-6411-4EE9-B7E6-122D7579F515}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|solutionrelative:aspnetcoewwebappmvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{97F2ED19-927E-C43C-C811-F06EEB71455A}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|c:\\users\\intel\\source\\repos\\aspnetcoewwebappmvc\\aspnetcoewwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F2ED19-927E-C43C-C811-F06EEB71455A}|AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC.csproj|solutionrelative:aspnetcoewwebappmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,22 +24,9 @@
               "RelativeDocumentMoniker": "AspNetCoewWebAppMVC\\Program.cs",
               "ToolTip": "C:\\Users\\Intel\\source\\repos\\AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC\\Program.cs",
               "RelativeToolTip": "AspNetCoewWebAppMVC\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-07T17:21:09.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Intel\\source\\repos\\AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC\\Dockerfile",
-              "RelativeDocumentMoniker": "AspNetCoewWebAppMVC\\Dockerfile",
-              "ToolTip": "C:\\Users\\Intel\\source\\repos\\AspNetCoewWebAppMVC\\AspNetCoewWebAppMVC\\Dockerfile",
-              "RelativeToolTip": "AspNetCoewWebAppMVC\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-02-07T17:19:48.103Z",
               "EditorCaption": ""
             }
           ]
